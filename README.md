@@ -1,9 +1,12 @@
 # install
 Take Hidden Screenshot
 evi-d takes screenshots of your mouse activity and following keys
-> Enter
+> Enter 
+
 > arrow keys
+
 > Tab
+
 > Alt
 
 ## Download Links
